@@ -30,7 +30,7 @@ User requests are initiated through a web browser and routed via the NGINX Ingre
 The repository is organised to separate application code, infrastructure, and deployment configurations for better maintainability.
 
 ```text
-EADeployment-CA2/
+.
 │
 ├── EAD_BE_CA2/                 # Backend application (Java)
 │
