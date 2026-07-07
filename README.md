@@ -1,6 +1,4 @@
-# EA Deployment CA2
-
-## Recipe Tracker Application
+# Recipe Tracker — AKS Deployment
 
 ![AKS](https://img.shields.io/badge/Kubernetes-AKS-blue)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitHub%20Actions-brightgreen)
